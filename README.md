@@ -1,5 +1,7 @@
 This repository contains models trained with different backdoor attacks, triggers, and target classes. Below is a summary of each model.
 neural_cleanse_v2.ipynb is a backdoor detection model uisng neural clease method.
+Run with 
+https://colab.research.google.com/drive/1UdTloEuso_-hsPUL-QGdlRDSZfsqlMUP?usp=sharing
 
 Models 1 to 5: 
 - Model 1: Trained on MNIST.
